@@ -1,0 +1,15 @@
+{
+    "name": "vinh/code",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vinhphis",
+            "email": "zephy2882004@gmail.com"
+        }
+    ],
+    "require": {}
+}
